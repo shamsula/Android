@@ -1,0 +1,9 @@
+<resources>
+   <string name="app_name">Price Calculator</string>
+   <string name="enter_amount">Enter Amount</string>
+   <string name="tip_percentage">Tax 13%</string>
+   <string name="ship_percentage">Ship 10%</string>
+   <string name="tip">Ship</string>
+   <string name="tax">Tax</string>
+   <string name="total">Total</string>
+</resources>

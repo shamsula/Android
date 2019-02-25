@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">shamsulExpense</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="createEditText">Create Edit Text</string>
+    <string name="createTextView">Create Text View</string>
+    <string name="createButton">Create Button</string>
+    <string name="createFragment">Create Fragment</string>
+    <string name="hideFragment">Hide Fragment</string>
+    <string name="search">Search</string>
+    <string name="hide">Hide</string>
+    <string name="reorder">Reorder</string>
+    <string name="sort">Sort</string>
+    <string name="exit">Exit</string>
+    <string name="removeFragment">Remove Fragment</string>
+    <string name="fragment_1_menu">Fragment 1 ........</string>
+    <string name="fragment_2_menu">Fragment 2 ........</string>
+    <string name="fragment_3_menu">Fragment 3 ........</string>
+    <string name="fragment_4_menu">Fragment 4 ........</string>
+    <string name="myfragment_menu">My Dynamic Fragment ...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="shamsul_expense">Shamsul Expense</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="username" />
+    <string name="password" />
+    <string name="login_btn">Login</string>
+    <string name="uid"></string>
+    <string name="exit_btn">EXIT</string>
+    <string name="exit_btn1">EXIT</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="back_btn">Back</string>
+    <string name="exit_btn2">Exit App</string>
+</resources>
